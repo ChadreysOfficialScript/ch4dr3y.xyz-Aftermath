@@ -245,7 +245,7 @@ sections.Section1:AddToggle({
 
 sections.Section1:AddText({
     enabled = true,
-    text = "Dont Change keypicker u will get banned",
+    text = "Dont Touch KeyBind U will Get Banned",
     flag = "Text_1",
     risky = true,
 })
